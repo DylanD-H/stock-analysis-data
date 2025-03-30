@@ -1,9 +1,7 @@
 # Stock Market Analysis Data
 
-### Info for All Available Stocks:
-* Basic Info: https://github.com/DylanD-H/stock-analysis-data/releases/download/2.0/stock_basic_info.csv
-* Extra Info: https://github.com/DylanD-H/stock-analysis-data/releases/download/2.0/stock_info_ext.csv
+### Info for NASDAQ and NYSE Listed Stocks, Historical Price Data and Historical Quarterly Balance Sheets:
+* https://github.com/DylanD-H/stock-analysis-data/releases/tag/Initial
 
-### Historical Data:
-* Historical Price Data: https://github.com/DylanD-H/stock-analysis-data/releases/download/2.0/historical_price_data.parquet
-* Historical Quarterly Balance Sheet Reports: https://github.com/DylanD-H/stock-analysis-data/releases/download/2.0/historical_quarterly_reports.parquet
+### Weekly Price Data:
+* https://github.com/DylanD-H/stock-analysis-data/releases/tag/Weekly
